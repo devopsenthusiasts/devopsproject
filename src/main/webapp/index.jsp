@@ -332,7 +332,7 @@
     <div class="testbox">
         <form action="/" method="post">
             <div class="banner">
-                <h1>Deloitte - HIRING!</h1>
+                <h1>United Health Group - HIRING!</h1>
             </div>
 
             <!-- tagline -->
@@ -435,7 +435,7 @@
 
             <!-- submit button -->
             <div class="btn-block">
-                <button type="submit">Apply Now!</button>
+                <button type="submit">Apply!!</button>
             </div>
 
             <!-- tiny footer (Hotstar copyright style) -->
