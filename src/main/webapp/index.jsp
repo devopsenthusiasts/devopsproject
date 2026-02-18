@@ -332,7 +332,7 @@
     <div class="testbox">
         <form action="/" method="post">
             <div class="banner">
-                <h1>DEVOPS @ Hotstar</h1>
+                <h1>Deloitte - HIRING!</h1>
             </div>
 
             <!-- tagline -->
