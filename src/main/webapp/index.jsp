@@ -338,7 +338,7 @@
             <!-- tagline -->
             <div align="left">
                 <p class="top-info"><b>Join the team that delivers entertainment to 260 million members.</b> <br> 
-                Fill the application below – we’re looking for streaming reliability wizards.</p>
+                Fill the application below – we're looking for streaming reliability wizards.</p>
             </div>
 
             <!-- short feedback message -->
@@ -435,7 +435,7 @@
 
             <!-- submit button -->
             <div class="btn-block">
-                <button type="submit">Apply to join the stream</button>
+                <button type="submit">Apply Now!</button>
             </div>
 
             <!-- tiny footer (netflix copyright style) -->
