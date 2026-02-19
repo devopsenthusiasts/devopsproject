@@ -16,7 +16,7 @@
 
         html, body {
             min-height: 100%;
-            background: #0f0f0f; /* Hotstar dark base */
+            background: #FFF; /* Hotstar dark base */
             font-family: 'Roboto', Arial, sans-serif;
         }
 
@@ -33,7 +33,7 @@
         form {
             width: 100%;
             max-width: 880px;
-            background: rgba(0, 0, 0, 0.85);
+            background: rgba(25, 25, 25, 0.85);
             backdrop-filter: blur(4px);
             border-radius: 12px;
             padding: 2rem 2.5rem;
